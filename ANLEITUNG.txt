@@ -1,0 +1,36 @@
+LEBENSPULS – TESTVERSION
+========================
+
+Was ist das?
+Eine App-Datei, die du auf dem Handy wie eine echte App installieren kannst. Sie läuft auch ohne Internet. Deine Daten bleiben auf deinem Gerät.
+
+SCHRITT 1: Online stellen (einmalig, 2 Minuten, kostenlos)
+Die App braucht eine sichere Internet-Adresse (https). So geht es am einfachsten:
+1. Öffne im Browser: app.netlify.com/drop
+2. Ziehe den ganzen Ordner "lebenspuls-test" in das Feld (oder die ZIP-Datei nach dem Entpacken).
+3. Du bekommst eine Adresse wie https://irgendwas.netlify.app. Das ist deine Test-App.
+(Alternativen: GitHub Pages oder jeder andere Webspace. Wichtig: alle Dateien aus dem Ordner zusammen hochladen.)
+
+SCHRITT 2: Auf dem iPhone installieren
+1. Öffne die Adresse in SAFARI (nicht in einem anderen Browser).
+2. Tippe auf das Teilen-Symbol (Quadrat mit Pfeil).
+3. Wähle "Zum Home-Bildschirm".
+4. Öffne die App vom Home-Bildschirm. Sie startet ohne Browser-Leiste.
+
+Android: In Chrome Menü (drei Punkte), dann "App installieren" oder "Zum Startbildschirm hinzufügen".
+
+WICHTIG ZUM TESTEN
+- Öffne die App einmal mit Internet, danach geht sie auch offline.
+- Deine Daten liegen nur in dieser installierten App. Mach regelmäßig ein Backup: Profil, dann Daten sichern.
+- Wenn du die App löschst oder die Browserdaten leerst, sind die Daten weg (ohne Backup).
+- Der KI-Coach und der Camp-Bereich funktionieren nur in der Claude-Version. Hier sind sie aus.
+- Schriften werden beim ersten Start von Google geladen. Danach sind sie gespeichert.
+- Es ist ein Prototyp, keine medizinische Beratung.
+
+NEUE VERSION EINSPIELEN
+Neue Dateien auf dieselbe Adresse hochladen (bei Netlify: Ordner erneut in das Deploy-Feld ziehen). Die App danach zweimal öffnen, dann ist die neue Version aktiv. Deine Daten bleiben erhalten.
+
+Version: 52115c9544
+
+FOTOS FÜR DIE IDEEN
+Lege Fotos in den Ordner bilder/ (Dateinamen und Prompts: BILDER-PROMPTS.md), dann alles wieder auf GitHub hochladen.
